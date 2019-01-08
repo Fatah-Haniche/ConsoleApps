@@ -4,7 +4,8 @@ using System.Text;
 
 namespace GidDev
 {
-    class Feature_Branch
+    public class Feature_Branch
     {
+        public int Id { get; set; }
     }
 }
